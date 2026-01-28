@@ -55,7 +55,7 @@
 /* アクセシビリティ - スキップリンク */
 .skip-link {
     position: absolute;
-    top: -40px;
+    top: -9999px;
     left: 6px;
     background: var(--primary-color);
     color: white;
