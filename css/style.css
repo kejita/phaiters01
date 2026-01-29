@@ -262,7 +262,7 @@ p {
 
 .hero-title {
     font-size: var(--font-size-xxxl);
-    color: var(--text-primary);
+    color: var(--primary-color);
     margin-bottom: var(--spacing-md);
     line-height: 1.3;
 }
