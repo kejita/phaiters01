@@ -307,12 +307,12 @@ p {
 .btn-primary {
     background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
     color: var(--white);
-    box-shadow: 0 4px 20px rgba(121, 191, 184, 0.3);
+    box-shadow: 0 4px 20px rgba(172, 213, 209, 0.3);
 }
 
 .btn-primary:hover {
     transform: translateY(-2px);
-    box-shadow: 0 8px 30px rgba(121, 191, 184, 0.4);
+    box-shadow: 0 8px 30px rgba(172, 213, 209, 0.4);
 }
 
 .btn-secondary {
